@@ -23,6 +23,10 @@ $ git submodule update --init --recursive --remote && python3 ./static/games/dow
 ``` sh
 $ python3 app.py
 ```
+## Docker部署
+```
+docker-compose up -d
+```
 
 ## Credits
 
